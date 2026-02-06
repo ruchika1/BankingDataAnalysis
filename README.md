@@ -1,6 +1,6 @@
 # Banking Data analysis methodology and key findings 
 I used the linked dataset for studying the trend of long term deposit commitment from a given customer based on various features. 
-Jupiter Notebook with analysis is linked here 
+Jupiter Notebook with analysis is linked here https://github.com/ruchika1/BankingDataAnalysis/blob/main/prompt_III.ipynb
 
 As a first step I dropped null columns and modified 2 boolean columns - target Y and contact into numerical 0,1.
 I then encoding the categorical columns using Pandas get_dummies method.
